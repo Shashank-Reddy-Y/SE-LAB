@@ -1,0 +1,5 @@
+you added a new dependency for mysql connector in pom.xml , but it is not downloading which command will u use to run to force mavern to update dependecies
+u want to skip running tests during build process for faster deployment, which command will u use
+project requiresdifferent database settings for dev and prod. How do u configure mavern to handle this
+u updated pom.xml , but mavern is still using old cache dependices. how do u clear local repo cache
+ur project is failing with error plugin org.apache.mavern.plugins:mavern-compiler-plugin not found how do u resolve this.
